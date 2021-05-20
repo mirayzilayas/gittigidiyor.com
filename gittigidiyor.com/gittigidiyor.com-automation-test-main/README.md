@@ -1,4 +1,4 @@
-# gittigidiyor.com-automation-test
+# gittigidiyor.com
 
 www.gittigidiyor.com için yapılan otomasyon test yazılımıdır.
 
